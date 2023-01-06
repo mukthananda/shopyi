@@ -2,7 +2,7 @@ const list = [
     {
       id: 1,
       title: "Apple iPhone 14 Pro 256GB Midnight ",
-      price: 139900,
+      price: 13990,
       img: "https://m.media-amazon.com/images/I/610pghkO81L._SL1500_.jpg",
       amount: 1,
     },
