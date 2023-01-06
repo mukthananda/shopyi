@@ -19,4 +19,4 @@ const Item = ({ item, handleClick }) => {
 
 export default Item;
 
-// id, title, autor, price, img
+
